@@ -14,4 +14,8 @@
 ## UC-06 Totalizar Votos
 <img width="985" height="705" alt="image" src="https://github.com/user-attachments/assets/6dbd7b53-1001-47da-8a2b-4d9c1ffe2e30" />
 
+## UC-07 Transmitir dados
+<img width="1002" height="703" alt="image" src="https://github.com/user-attachments/assets/b25accd8-2c50-4932-b31d-2fabfd75b3d1" />
+
+
 
