@@ -1,6 +1,8 @@
 # Mod-Sistemas-Orient-Obj
 
 # Casos de Uso - Sistema de Votação
+## UC-01 Verificar eleitor
+<img width="1002" height="703" alt="image" src="https://github.com/user-attachments/assets/89841616-1935-4112-a32d-568fc9b031bf" />
 
 ## UC-02 Autenticar Eleitor
 ![UC-02 Autenticar Eleitor](https://github.com/user-attachments/assets/7db9d616-57a9-4852-a792-d7c1282f3cbf)
