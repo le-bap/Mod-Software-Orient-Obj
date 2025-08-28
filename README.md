@@ -10,3 +10,8 @@
 
 ## UC-05 Gerenciar Candidatos
 ![UC-05 Gerenciar Candidatos](https://github.com/user-attachments/assets/4093cd50-ed88-491f-a318-35619a6985ec)
+
+## UC-06 Totalizar Votos
+<img width="985" height="705" alt="image" src="https://github.com/user-attachments/assets/6dbd7b53-1001-47da-8a2b-4d9c1ffe2e30" />
+
+
