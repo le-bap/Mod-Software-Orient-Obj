@@ -5,13 +5,13 @@
 <img width="1002" height="703" alt="image" src="https://github.com/user-attachments/assets/89841616-1935-4112-a32d-568fc9b031bf" />
 
 ## UC-02 Autenticar Eleitor
-![UC-02 Autenticar Eleitor](https://github.com/user-attachments/assets/7db9d616-57a9-4852-a792-d7c1282f3cbf)
+<img width="798" height="599" alt="image" src="https://github.com/user-attachments/assets/ae60b093-31c8-4139-8071-31f0aa8127f3" />
 
 ## UC-04 Gerenciar Eleição
-![UC-04 Gerenciar Eleição](https://github.com/user-attachments/assets/244ddb25-814e-4d4c-a6d7-f3eff866c8fa)
+<img width="655" height="708" alt="image" src="https://github.com/user-attachments/assets/00ba0309-7327-482e-b435-8dd590c155b8" />
 
 ## UC-05 Gerenciar Candidatos
-![UC-05 Gerenciar Candidatos](https://github.com/user-attachments/assets/4093cd50-ed88-491f-a318-35619a6985ec)
+<img width="715" height="707" alt="image" src="https://github.com/user-attachments/assets/2c26cab6-b10f-49e1-8dc8-b19754b89ec2" />
 
 ## UC-06 Totalizar Votos
 <img width="985" height="705" alt="image" src="https://github.com/user-attachments/assets/6dbd7b53-1001-47da-8a2b-4d9c1ffe2e30" />
