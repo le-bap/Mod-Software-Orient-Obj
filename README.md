@@ -24,4 +24,4 @@
 ## UC-07 Transmitir dados
 <img width="1000" height="701" alt="image" src="https://github.com/user-attachments/assets/d9009d44-585f-4e55-b7b9-95c34fc332a5" />
 
-https://github.com/le-bap/Mod-Sistemas-Orient-Obj.wiki.git
+https://github.com/le-bap/Mod-Sistemas-Orient-Obj/wiki
